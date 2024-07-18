@@ -182,4 +182,8 @@ body{
     .card-rating, .card-thank-you{
         width: 270px;
     }
+
+    .attribution{
+        display: none;
+    }
 }
