@@ -176,6 +176,9 @@ body{
     .card-rating, .card-thank-you{
         width: 295px;
     }
+    .attribution{
+        display: none;
+    }
 }
 
 @media(max-width:337px){
@@ -183,7 +186,4 @@ body{
         width: 270px;
     }
 
-    .attribution{
-        display: none;
-    }
 }
